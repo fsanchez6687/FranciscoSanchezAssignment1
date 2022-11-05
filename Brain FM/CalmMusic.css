@@ -1,0 +1,58 @@
+body {
+    margin: 0px;
+    font-family: sans-serif; 
+    background-color: #3333cc;
+}
+
+.section-1 {
+    color: white;
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+
+}
+
+a:visited {
+    color:white;
+}
+
+input[type='button']{
+    padding: 8px 15px;
+    background: linear-gradient(to right, #ffcc66 0%, #ff9933 100%);
+    font-weight:bold;
+    border: 0px;
+    border-radius: 15px;
+    color: white;
+}
+
+
+
+.headline1 {
+    font-size: 25px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+
+.headline2 {
+    font-size:40px ;
+    font-weight: bold;
+    padding-top: 0px;
+    margin: 0;
+
+
+}
+
+.headline3 {
+    font-size: 13px; 
+    color: gainsboro;
+
+}
+.section-2 {
+
+    color: white;
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+}
+
